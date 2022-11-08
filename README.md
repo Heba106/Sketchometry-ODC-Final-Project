@@ -20,7 +20,10 @@ We designed our game to be kids friendly and to suit children from 4 to 10 years
 # a glimpse of our game:
 
 <img title="steps" alt="draw a flower" src="images/steps.png">
+<img title="steps" alt="draw a bear" src="images/bear_steps.png">
 </br></br>
+
+
 
 
 # meet the team:
